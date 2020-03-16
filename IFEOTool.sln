@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IFEOTool", "IFEOTool.csproj", "{9C8B57D5-ADA2-458A-9D82-747F7B5B727D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C8B57D5-ADA2-458A-9D82-747F7B5B727D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8B57D5-ADA2-458A-9D82-747F7B5B727D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8B57D5-ADA2-458A-9D82-747F7B5B727D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8B57D5-ADA2-458A-9D82-747F7B5B727D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2A5A81E-BFCE-42C6-870A-2F2DB1746315}
+	EndGlobalSection
+EndGlobal
